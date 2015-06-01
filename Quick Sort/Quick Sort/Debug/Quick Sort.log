@@ -1,0 +1,20 @@
+﻿Build started 2015/6/1 12:41:43.
+     1>Project "E:\File\C C++\C Object\Two Sum\Quick Sort\Quick Sort\Quick Sort.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Quick Sort.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt QuickSort.cpp
+         QuickSort.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\File\C C++\C Object\Two Sum\Quick Sort\Debug\Quick Sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Quick Sort.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\File\C C++\C Object\Two Sum\Quick Sort\Debug\Quick Sort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\File\C C++\C Object\Two Sum\Quick Sort\Debug\Quick Sort.lib" /MACHINE:X86 Debug\QuickSort.obj
+         Quick Sort.vcxproj -> E:\File\C C++\C Object\Two Sum\Quick Sort\Debug\Quick Sort.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\File\C C++\C Object\Two Sum\Quick Sort\Debug\Quick Sort.exe.manifest" /manifest "Debug\Quick Sort.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Quick Sort.unsuccessfulbuild".
+         Touching "Debug\Quick Sort.lastbuildstate".
+     1>Done Building Project "E:\File\C C++\C Object\Two Sum\Quick Sort\Quick Sort\Quick Sort.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60
